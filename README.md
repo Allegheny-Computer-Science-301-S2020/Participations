@@ -3,7 +3,7 @@
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the starter files for this participation.
 
-![Logo](writing/graphics/logo.jpg)
+![Logo](graphics/cs400.png)
 
 ## Introduction
 
